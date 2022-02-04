@@ -1,6 +1,6 @@
 ### A deep convolution neural network based Alzheimers analysis and early detection using Magnetic Resonance Imaging.
 
-#### Abstract
+>* #### Abstract
 Alzheimer's disease, a cause of dementia that results in gradual brain disorder (loss of memory). It is a neurodegenerative disorder that reasons interactive problems, memory, and feeling, and that ultimately is fatal.  Brain Imaging via magnetic resonance imaging (MRI), is used for evaluation of patients with suspected AD that gives satisfactory resolution of the brain's soft tissues. Traditional computer vision techniques are used in the AD classification process in the recent times. All the methods aid in making decisions, whether an image is an AD or not. But, evolution of deep learning expanded countless devotion in almost every field of computer vision and image processing with inclusion of techniques like feature extraction, exploratory data analysis (EDA).
 The main objective is to enhance classification accuracy to get the high-performance prediction of disease that helps us for early detection likely at pre-symptomatic stages that  reduces the occurrence of dementia and prevents the evolution of the disease.
 
