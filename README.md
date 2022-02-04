@@ -19,7 +19,7 @@ We used this dataset to perform binary classification between Non Demented and M
 We will be using the longitudinal MRI data. The dataset consists of a longitudinal MRI data of 150 subjects aged 60 to 96. Each subject was scanned at least once. 72 of the subjects were grouped as 'Nondemented' throughout the study. 64 of the subjects were grouped as 'Demented' at the time of their initial visits and remained so throughout the study. 14 subjects were grouped as 'Nondemented' at the time of their initial visit and were subsequently characterized as 'Demented' at a later visit. 
 
 
->* **#### Methodology**
+>* #### **Methodology**
 
 This model is implemented with the idea of an Intelligent Healthcare Prediction and Classification System for AD Based on Deep learning. The main objective is to enhance classification accuracy to get the high-performance prediction of disease that helps for an early detection of disease reducing the occurrence of dementia. The existing kinds of research still do not show high performance of classification. So, the ultimate goal to improve the accuracy of the model by using Deep Learning.
 
