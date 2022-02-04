@@ -20,6 +20,7 @@ We will be using the longitudinal MRI data. The dataset consists of a longitudin
 
 
 >* **#### Methodology**
+
 This model is implemented with the idea of an Intelligent Healthcare Prediction and Classification System for AD Based on Deep learning. The main objective is to enhance classification accuracy to get the high-performance prediction of disease that helps for an early detection of disease reducing the occurrence of dementia. The existing kinds of research still do not show high performance of classification. So, the ultimate goal to improve the accuracy of the model by using Deep Learning.
 
 Deep Learning is the most recent technique that allows the machine to distinct representation from raw data. In traditional machine learning technique is required to identify most of the feature by the expert to minimize data complexity and make it more visible for working with a learning algorithm. Unlike Deep Learning algorithms aims to learn high-level features extraction from data. This removes the need for domain expertise.
